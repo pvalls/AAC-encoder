@@ -35,8 +35,8 @@ Professor   ALFONSO ANTONIO PEREZ CARRILLO
 
 Contributor SERGI SOLÀ CASAS
 
-RAVI LAKKUNDI's [original work] (https://es.mathworks.com/matlabcentral/fileexchange/26137-aac-encoder)
+RAVI LAKKUNDI's [original work](https://es.mathworks.com/matlabcentral/fileexchange/26137-aac-encoder)
 
-(See *pdf* file for more info)
+(See *pdf* file on repository for more info)
 
 
