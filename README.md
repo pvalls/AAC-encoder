@@ -37,6 +37,6 @@ Contributor SERGI SOLÀ CASAS
 
 RAVI LAKKUNDI's [original work](https://es.mathworks.com/matlabcentral/fileexchange/26137-aac-encoder)
 
-(See *pdf* file on repository for more info)
+(See *pdf* file on repo for more info)
 
 
