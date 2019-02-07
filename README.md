@@ -2,8 +2,6 @@
 
 Implementation of an Advance Audio Codec (AAC) Encoder/Decoder with [MATLAB](https://en.wikipedia.org/wiki/MATLAB). 
 
-See *pdf* file for more info
-
 Final project for *Voice and Audio Encoding* subject at [Universitat Pompeu Fabra (Barcelona).](https://www.upf.edu)
 
 ## Function tree
@@ -39,6 +37,6 @@ Contributor SERGI SOLÀ CASAS
 
 RAVI LAKKUNDI's [original work] (https://es.mathworks.com/matlabcentral/fileexchange/26137-aac-encoder)
 
-
+(See *pdf* file for more info)
 
 
