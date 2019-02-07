@@ -1,6 +1,6 @@
 # AAC-encoder
 
-Implementation of an Advance Audio Codec (AAC) Encoder/Decoder with [MATLAB](https://en.wikipedia.org/wiki/MATLAB). 
+Implementation of a simple [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding)-like Coder (Encoder + Decoder) in [MATLAB](https://en.wikipedia.org/wiki/MATLAB). 
 
 Final project for *Voice and Audio Encoding* subject at [Universitat Pompeu Fabra (Barcelona).](https://www.upf.edu)
 
