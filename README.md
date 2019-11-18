@@ -30,11 +30,11 @@ Final project for *Voice and Audio Encoding* subject at [Universitat Pompeu Fabr
 ```
 ## Project images
 
-<a href="https://github.com/pvalls/AAC-encoder/raw/master/project_media/Audio%20Codec%20Scheme.png"><img src="https://github.com/pvalls/AAC-encoder/raw/master/project_media/Audio%20Codec%20Scheme.png" title="Audio CODEC Scheme" alt="Audio CODEC Scheme" width="400"></a>
+<a href="https://github.com/pvalls/AAC-encoder/raw/master/project_media/Audio%20Codec%20Scheme.png"><img src="https://github.com/pvalls/AAC-encoder/raw/master/project_media/Audio%20Codec%20Scheme.png" title="Audio CODEC Scheme" alt="Audio CODEC Scheme" width="900"></a>
 </a>
-<a href="https://github.com/pvalls/AAC-encoder/raw/master/project_media/AAC%20Scheme.png"><img src="https://github.com/pvalls/AAC-encoder/raw/master/project_media/AAC%20Scheme.png" title="AAC Scheme" alt="AAC Scheme" width="400"></a>
+<a href="https://github.com/pvalls/AAC-encoder/raw/master/project_media/AAC%20Scheme.png"><img src="https://github.com/pvalls/AAC-encoder/raw/master/project_media/AAC%20Scheme.png" title="AAC Scheme" alt="AAC Scheme" width="900"></a>
 </a>
-<a href="https://raw.githubusercontent.com/pvalls/AAC-encoder/master/project_media/Original-vs-Compressed.png"><img src="https://raw.githubusercontent.com/pvalls/AAC-encoder/master/project_media/Original-vs-Compressed.png" title="Original-vs-Compressed" alt="Original-vs-Compressed" width="600"></a>
+<a href="https://raw.githubusercontent.com/pvalls/AAC-encoder/master/project_media/Original-vs-Compressed.png"><img src="https://raw.githubusercontent.com/pvalls/AAC-encoder/master/project_media/Original-vs-Compressed.png" title="Original-vs-Compressed" alt="Original-vs-Compressed" width="900"></a>
 </a>
 
 
